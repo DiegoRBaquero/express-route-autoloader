@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/DiegoRBaquero/express-route-autoloader/issues"
   },
-  "homepage": "https://github.com/DiegoRBaquero/express-route-autoloader#readme"
+  "homepage": "https://github.com/DiegoRBaquero/express-route-autoloader#readme",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "nyc": "^11.2.1",
+    "standard": "^10.0.3"
+  }
 }
