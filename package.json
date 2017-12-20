@@ -1,0 +1,27 @@
+{
+  "name": "express-route-autoloader",
+  "version": "1.0.0",
+  "description": "Automatically loads routes from a directory structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && nyc ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DiegoRBaquero/express-route-autoloader.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "loader",
+    "autoloader",
+    "expressjs",
+    "routes"
+  ],
+  "author": "Diego Rodríguez Baquero <diegorbaquero@gmail.com> (https://diegorbaquero.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoRBaquero/express-route-autoloader/issues"
+  },
+  "homepage": "https://github.com/DiegoRBaquero/express-route-autoloader#readme"
+}
