@@ -1,6 +1,6 @@
 {
   "name": "express-route-autoloader",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Automatically loads routes from a directory structure",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,8 @@
     "ava": "^0.24.0",
     "nyc": "^11.2.1",
     "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
   }
 }
