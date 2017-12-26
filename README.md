@@ -1,4 +1,4 @@
-# express-route-autoloader [![npm](https://img.shields.io/npm/v/express-route-autoloader.svg?style=flat-square)]() [![npm](https://img.shields.io/npm/dm/express-route-autoloader.svg?style=flat-square)]() [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![npm](https://img.shields.io/npm/l/express-route-autoloader.svg)](LICENSE)
+# express-route-autoloader [![npm](https://img.shields.io/npm/v/express-route-autoloader.svg?style=flat-square)]() [![npm](https://img.shields.io/npm/dm/express-route-autoloader.svg?style=flat-square)]() [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![npm](https://img.shields.io/npm/l/express-route-autoloader.svg?style=flat-square)](LICENSE)
 Automatically loads routes from a directory structure
 
 ## Install
