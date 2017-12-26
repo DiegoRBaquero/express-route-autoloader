@@ -1,7 +1,8 @@
 # express-route-autoloader [![npm](https://img.shields.io/npm/v/express-route-autoloader.svg?style=flat-square)]() [![npm](https://img.shields.io/npm/dm/express-route-autoloader.svg?style=flat-square)]() [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![npm](https://img.shields.io/npm/l/express-route-autoloader.svg?style=flat-square)](LICENSE)
+
 Automatically loads routes from a directory structure
 
-[![Travis branch](https://img.shields.io/travis/DiegoRBaquero/express-route-autoloader/master.svg?style=flat-square)]() [![Known Vulnerabilities](https://snyk.io/test/github/diegorbaquero/express-route-autoloader/badge.svg?style=flat-square)](https://snyk.io/test/github/diegorbaquero/express-route-autoloader) [![NSP Status](https://nodesecurity.io/orgs/diegorbaquero/projects/69e07c1e-3ac2-467e-8c0e-503c6d63dacf/badge?style=flat-square)](https://nodesecurity.io/orgs/diegorbaquero/projects/69e07c1e-3ac2-467e-8c0e-503c6d63dacf)
+[![Greenkeeper badge](https://badges.greenkeeper.io/DiegoRBaquero/express-route-autoloader.svg)](https://greenkeeper.io/) [![Travis branch](https://img.shields.io/travis/DiegoRBaquero/express-route-autoloader/master.svg?style=flat-square)]() [![Known Vulnerabilities](https://snyk.io/test/github/diegorbaquero/express-route-autoloader/badge.svg?style=flat-square)](https://snyk.io/test/github/diegorbaquero/express-route-autoloader) [![NSP Status](https://nodesecurity.io/orgs/diegorbaquero/projects/69e07c1e-3ac2-467e-8c0e-503c6d63dacf/badge?style=flat-square)](https://nodesecurity.io/orgs/diegorbaquero/projects/69e07c1e-3ac2-467e-8c0e-503c6d63dacf)
 
 ## Install
 
