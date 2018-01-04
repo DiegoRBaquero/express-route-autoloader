@@ -38,7 +38,8 @@ routeLoader(app)
 
 ## Related
 
-[sequelize-express-findbyid](https://github.com/DiegoRBaquero/sequelize-express-findbyid)
+- [express-debug-async-wrap](https://github.com/DiegoRBaquero/express-debug-async-wrap)
+- [sequelize-express-findbyid](https://github.com/DiegoRBaquero/sequelize-express-findbyid)
 
 
 ## License
