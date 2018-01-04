@@ -28,7 +28,7 @@ src/
 
 Load routes in your app:
 
-```
+```js
 const express = require('express')
 const routeLoader = require('express-route-autoloader')
 
