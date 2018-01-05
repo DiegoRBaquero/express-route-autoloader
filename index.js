@@ -4,7 +4,7 @@ const path = require('path')
 
 const ROUTES_PATH = 'src/routes'
 
-module.exports = (app, routerPath = ROUTES_PATH) => {
+function routeLoader (app, routerPath = ROUTES_PATH) {
   fs.readdirSync(routerPath).forEach(file => {
     const filePath = path.join(routerPath, file)
     const stat = fs.statSync(filePath)
@@ -15,8 +15,11 @@ module.exports = (app, routerPath = ROUTES_PATH) => {
     } else {
       let route = filePath.replace(ROUTES_PATH, '').replace('.js', '').replace('index', '')
       let requireFilePath = path.resolve(filePath)
+      debug('Loading route %s', route)
       app.use(route, require(requireFilePath))
       debug('Loaded route %s', route)
     }
   })
 }
+
+module.exports = routeLoader
