@@ -1,6 +1,6 @@
 {
   "name": "express-route-autoloader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Automatically loads routes from a directory structure",
   "main": "index.js",
   "scripts": {
