@@ -58,6 +58,8 @@ typings/
 .env
 
 .idea/
+package-lock.json
+.travis.yml
 
 example/
 test/

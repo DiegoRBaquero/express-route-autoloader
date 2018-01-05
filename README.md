@@ -38,9 +38,9 @@ routeLoader(app)
 
 ## Related
 
+- [express-sequelize-crud-router](https://github.com/DiegoRBaquero/express-sequelize-crud-router)
 - [express-debug-async-wrap](https://github.com/DiegoRBaquero/express-debug-async-wrap)
 - [sequelize-express-findbyid](https://github.com/DiegoRBaquero/sequelize-express-findbyid)
-
 
 ## License
 

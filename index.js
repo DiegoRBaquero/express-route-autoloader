@@ -4,7 +4,7 @@ const path = require('path')
 
 const ROUTES_PATH = 'src/routes'
 
-function routeLoader (app, routerPath = ROUTES_PATH) {
+module.exports = (app, routerPath = ROUTES_PATH) => {
   fs.readdirSync(routerPath).forEach(file => {
     const filePath = path.join(routerPath, file)
     const stat = fs.statSync(filePath)
@@ -20,5 +20,3 @@ function routeLoader (app, routerPath = ROUTES_PATH) {
     }
   })
 }
-
-module.exports = routeLoader
