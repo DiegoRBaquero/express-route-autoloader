@@ -2,7 +2,9 @@
 
 Automatically loads routes from a directory structure
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/DiegoRBaquero/express-route-autoloader.svg)](https://greenkeeper.io/) [![Travis branch](https://img.shields.io/travis/DiegoRBaquero/express-route-autoloader/master.svg?style=flat-square)]() [![Known Vulnerabilities](https://snyk.io/test/github/diegorbaquero/express-route-autoloader/badge.svg?style=flat-square)](https://snyk.io/test/github/diegorbaquero/express-route-autoloader) [![NSP Status](https://nodesecurity.io/orgs/diegorbaquero/projects/69e07c1e-3ac2-467e-8c0e-503c6d63dacf/badge?style=flat-square)](https://nodesecurity.io/orgs/diegorbaquero/projects/69e07c1e-3ac2-467e-8c0e-503c6d63dacf)
+[![Greenkeeper badge](https://badges.greenkeeper.io/DiegoRBaquero/express-route-autoloader.svg)](https://greenkeeper.io/)
+[![Travis branch](https://img.shields.io/travis/DiegoRBaquero/express-route-autoloader/master.svg?style=flat-square)]()
+[![Known Vulnerabilities](https://snyk.io/test/github/diegorbaquero/express-route-autoloader/badge.svg?style=flat-square)](https://snyk.io/test/github/diegorbaquero/express-route-autoloader)
 
 ## Install
 
