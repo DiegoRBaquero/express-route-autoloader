@@ -13,8 +13,8 @@ function routeLoader (app, routerPath = ROUTES_PATH) {
       routeLoader(app, filePath)
       debug('Loaded dir %s', filePath.replace(ROUTES_PATH, ''))
     } else {
-      let route = filePath.replace(ROUTES_PATH, '').replace('.js', '').replace('index', '')
-      let requireFilePath = path.resolve(filePath)
+      const route = filePath.replace(ROUTES_PATH, '').replace('.js', '').replace('index', '')
+      const requireFilePath = path.resolve(filePath)
       debug('Loading route %s', route)
       app.use(route, require(requireFilePath))
       debug('Loaded route %s', route)
